@@ -1,0 +1,224 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav_bar {
+    display: flex;
+    border-bottom: 3px solid rgba(115, 115, 115, 0.116);
+}
+
+
+.bar {
+    margin-top: 30px;
+    display: flex;
+    margin-left: 50px;
+    color: rgb(75, 75, 75);
+    font-size: 25px;
+    background-color: white;
+    border-top: white;
+    border-right: white;
+    border-left: white;
+    border-bottom: white;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Asap', sans-serif;
+}
+
+.co {
+    display: flex;
+    margin: auto;
+}
+
+.connexion {
+    display: flex;
+    margin-left: 20px;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    background-color: #570906;
+    font-family: 'Nunito', sans-serif; 
+}
+
+
+
+.logo_ir {
+    display: flex;
+    margin-left: 10px;
+    width: 200px;
+}
+
+.logo_f {
+    display: flex;
+    width: 100px;
+    height: 90px;
+}
+
+
+.img_fond { 
+    width: 100%;
+    margin: auto;
+    display: flex; 
+}
+
+h1 {
+    margin-left: 25px;
+    font-family: 'Nunito', sans-serif;
+    color: #B9121B;
+}
+
+
+h2 {
+    margin-left: 80px;
+    display: flex;
+    color: rgb(115, 115, 115);
+    
+}
+
+.run {
+    color: #E70739;
+    margin-top: 12px;
+    font-family: 'Anton', sans-serif;
+    font-size: 35px;
+}
+
+.recherche {
+    font-size: 15px;
+    display: flex;
+    margin-left: -50px;
+    margin-top: 60px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.nos_service {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 3px solid rgba(115, 115, 115, 0.404);
+    border-radius: 6px;
+    width: 240px;
+}
+
+
+
+.info {
+    color: #B9121B;
+    background-image: url('https://zupimages.net/up/21/06/w328.jpeg');
+    width: 100%;
+}
+
+.icons {
+    width: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+.col {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-family: 'Nunito', sans-serif; 
+    margin: auto;
+    width: 1200px;
+
+}
+
+.etiquette {
+    width: 250px;
+    height: auto;
+    margin: 50px 20px 50px 20px;
+    border: solid grey;
+    border-radius: 3px;
+    background-color: #fcfbf0d2;
+    padding: 20px;
+}
+  
+
+.button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    background-color: #570906;
+    font-family: 'Nunito', sans-serif; 
+}
+
+.titre {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.actu {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #3B0405;
+    color: white;
+    font-size: 35px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.footer {
+    background-color: rgba(115, 115, 115, 0.384);
+}
+
+.footer_imo {
+    float: left;
+    margin-left: 10px;
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Asap', sans-serif;
+    color: rgb(84, 84, 84);
+    font-size: 40px;
+}
+
+.run1 {
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    color: #E70739;
+    font-family: 'Anton', sans-serif;
+}
+
+.info_footer {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Nunito', sans-serif; 
+}
+
+.text_footer1 {
+    color: rgb(84, 84, 84);
+}
+
+.footer_titre {
+    display: flex;
+}
+
+.footer_1 { 
+    margin-right: 60px;
+    font-size: 12px;
+}
+
+h4 {
+    font-size: 15px;
+    color: #B9121B;
+}
+
